@@ -236,7 +236,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Gabriel Henrique**
 
-- GitHub: [@gabshs](https://github.com/gabrielhenrique)
+- GitHub: [@gabshs](https://github.com/gabshs)
 - LinkedIn: [Gabriel Henrique](https://linkedin.com/in/gabshs)
 
 ## 🌟 Agradecimentos
